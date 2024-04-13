@@ -110,8 +110,8 @@ document.addEventListener("DOMContentLoaded", function () {
   
   $(document).ready(function () {
     // Define the unique email and password
-    var uniqueEmail = "chandugolladi@gmail.com";
-    var uniquePassword = "Password@3020";
+    var uniqueEmail = "Spandadkl2@gmail.com";
+    var uniquePassword = "Spanda@1234";
   
     $("#loginForm").submit(function (e) {
       e.preventDefault();
